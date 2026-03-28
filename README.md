@@ -38,7 +38,7 @@
   
   <img src="Anime-wallpaper/b000be6e4a90a29fd8283a87818e125a.jpg" width="100%" />
 
- ![all anime wallpaper here](Anime-wallpaper)
+ ![all anime wallpaper here](https://github.com/Velrosy/Wallpaper/tree/c852c37febd8635281b2ccc783d77b67c56b0b6e/Anime-wallpaper)
   
 <br><br>
 </details>
