@@ -3,6 +3,7 @@
 <details>
   <summary><b><font size="5"> ✨ Anime-wallpaper</font></b></summary>
   <br>
-   ![1398757.jpg](Anime-wallpaper/1398757.jpg)
+ 
+  <img src="Anime-wallpaper/1398757.jpg" width="100%" />
 <br><br>
 </details>
