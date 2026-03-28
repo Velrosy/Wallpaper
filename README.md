@@ -48,7 +48,10 @@
   <summary><b><font size="5"> ✨ video-wallpaper</font></b></summary>
   <br>
 
-<img src="video-wallpaper/lofi-girl-reading-book-while-its-raining-outside-pixel-moewalls-com.mp4" width="100%" />
+<video width="100%" controls>
+  <source src="video-wallpaper/lofi-girl-reading-book-while-its-raining-outside-pixel-moewalls-com.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <br><br>
 </details
