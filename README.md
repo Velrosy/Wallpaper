@@ -44,5 +44,4 @@ for Linux users
 
 ## Discord Profile Section 
 
-<iframe src="https://discord.com/widget?id=1425986623316820080&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
+[![Discord Banner](https://discordapp.com/api/guilds/1425986623316820080/widget.png?style=banner4)](https://discord.gg/Havenia)
