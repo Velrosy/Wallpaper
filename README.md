@@ -44,6 +44,16 @@ for Linux users
 
 ## Discord Profile Section 
 
+<details>
+  <summary><b><font size="5"> ✨ Discord-Profiles</font></b></summary>
+  <br>
+
+| profile | gif profile |
+|-------|-------|
+| <img src="" width="300"> |  <img src="" width="300"> |
+
+<br><br>
+</details
 
 
 [![Join](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/Havenia)
