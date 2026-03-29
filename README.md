@@ -38,7 +38,6 @@ for Linux users
 |
 
 
-[Download the wallpaper](Video-wallpaper/lofi-girl-reading-book-while-its-raining-outside-pixel-moewalls-com.mp4) 
 
 <br><br>
 </details
