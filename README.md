@@ -32,8 +32,8 @@ for Linux users
   <summary><b><font size="5"> ✨ video-wallpaper</font></b></summary>
   <br>
 
- | video | Wallpaper |
-| <img src="Video-wallpaper/GIF_20260328_174623_600.gif" width="300"> | t  |
+| video | Wallpaper |
+| <img src="Video-wallpaper/GIF_20260328_174623_600.gif" width="300"> | t |
 
 
 [Download the wallpaper](Video-wallpaper/lofi-girl-reading-book-while-its-raining-outside-pixel-moewalls-com.mp4) 
