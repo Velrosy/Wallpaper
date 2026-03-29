@@ -68,9 +68,7 @@ for Linux users
 <details>
   <summary><b><font size="5"> ✨ wallpaper-Website </font></b></summary>
   <br>
-
    
-    
   [4k wallpapers](https://4kwallpapers.com/)
  
   <br><br>
