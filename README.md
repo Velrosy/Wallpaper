@@ -42,7 +42,7 @@ for Linux users
 </details
 
 
-## Discord Profile Section 
+# Discord Profile Section 
 ---
 
 <details>
