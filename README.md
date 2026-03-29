@@ -51,7 +51,7 @@ for Linux users
 
 | profile | gif profile |
 |-------|-------|
-| <img src="profile_1114208841647788113.webp" width="300"> |  <img src="" width="300"> |
+| <img src="profile_1114208841647788113.webp" width="300"> |  <img src="Discord Profiles/profile_1114208841647788113 (2).gif" width="300"> |
 
 <br><br>
 </details
