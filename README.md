@@ -43,6 +43,7 @@ for Linux users
 
 
 ## Discord Profile Section 
+---
 
 <details>
   <summary><b><font size="5"> ✨ Discord-Profiles</font></b></summary>
