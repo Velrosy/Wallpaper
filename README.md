@@ -45,4 +45,8 @@ for Linux users
 ## Discord Profile Section 
 
 [![Discord Banner](https://discordapp.com/api/guilds/1425986623316820080/widget.png?style=banner4)](https://discord.gg/Havenia)
+
 [![Join](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/Havenia)
+
+[![Discord](https://discordapp.com/api/guilds/1425986623316820080/widget.png?style=banner2)](https://discord.gg/Havenia)
+
